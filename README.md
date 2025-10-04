@@ -10,7 +10,7 @@ app.py (if you added UI)
 notes.md (documentation of what you tried)
 
 3. Commit and push your changes.
-4. Copy your GitHub repo link (example: https://github.com/csubhahana/tiny-ai-qa-bot/bolb/main/README.md)
+4. Copy your GitHub repo link (example: https://github.com/csubhahana/tiny-ai-qa-bot)
 5. Submit that link as your assignment.
 
 Example Project Structure:
